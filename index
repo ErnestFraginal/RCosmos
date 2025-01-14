@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" href="styles.css">
+    <head>
+        <title>Rainbow Cosmos</title>
+        </head>
+        <body>
+    <div class="parent">
+        <div class="div1"><h1>Rainbow Cosmos</h1></div>
+        <div class="div2">
+            <a href="../RCosmos/Index.html">Home</a>
+            <a href="../RCosmos/About.html">About Us</a>
+            <a href="../RCosmos/Commissions.html">Commissions Page</a>
+            <a href="../RCosmos/Denise.html">About Denise</a>
+            <a href="https://www.instagram.com/rbowcosmos?igsh=dmF3dTJieDRyc2k3/">Follow us on Instagram!</a></div>
+        <div class="div3"><h2>Our Vision</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <br></br>
+        </div>
+        <div class="div4"><p>Footer wip</p>
+        </div>
+    </body>
+    </div>
+</html>

@@ -84,3 +84,10 @@ body {
     font-family: 'Nunito', Arial, Helvetica, sans-serif;
     font-size: 12px !important;
 }
+
+
+  .imgcenter
+{
+  display: flex;
+  justify-content:center;
+}  
